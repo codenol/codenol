@@ -4,10 +4,6 @@
 
 - 🔭 I’m currently working on **INSPIRO**
 
-- 📝 I regularly write articles
-
-- 💬 Ask me about **parsing on python, front on vue**
-
 - 📫 How to reach me **alexeychikov@gmail.com**
 
 ##
