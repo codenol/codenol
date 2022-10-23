@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **INSPIRO**
 
-- 📝 I regularly write articles on [https://codenol.dev](https://codenol.dev)
+- 📝 I regularly write articles
 
 - 💬 Ask me about **parsing on python, front on vue**
 
