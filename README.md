@@ -2,8 +2,6 @@
 
 - :boom: I'm a passionate full-stack developer
 
-- 🔭 I’m currently working on **INSPIRO**
-
 - 📫 How to reach me **alexeychikov@gmail.com**
 
 ##
